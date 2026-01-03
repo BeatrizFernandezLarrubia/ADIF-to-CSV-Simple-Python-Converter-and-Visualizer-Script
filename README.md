@@ -1,0 +1,2 @@
+# ADIF-to-CSV-Simple-Python-Converter-and-Visualizer-Script
+These two simple scripts have as goals to give a very quick and easy conversion from a .adi or .adif file (Amateur Data Interchange Format) to a CSV file for easy loading into Excel or to do further data analysis with Pandas or other libraries, and to provide a quick visualization for the converted CSV file. Python version used  was 3.11.9.
